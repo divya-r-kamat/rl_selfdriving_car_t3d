@@ -699,7 +699,7 @@ class TD3NavApp(QMainWindow):
         self.setCentralWidget(container)
 
         # Setup
-        self.setup_map("paris_city_map.png")
+        self.setup_map("mumbai_city_map.png")
         self.setup_state = 0
         self.sim_timer = QTimer()
         self.sim_timer.timeout.connect(self.training_loop)

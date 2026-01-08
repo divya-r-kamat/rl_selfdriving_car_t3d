@@ -2,7 +2,9 @@
 
 A reinforcement learning project that trains a car to navigate autonomously using the **TD3 algorithm**.
 
----
+
+<img width="800" height="800" alt="mumbai_city_map" src="https://github.com/user-attachments/assets/8c948935-1bba-43d3-95e1-901fe4aea673" />
+
 
 ## What is TD3?
 

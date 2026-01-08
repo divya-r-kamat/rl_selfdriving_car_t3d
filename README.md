@@ -76,7 +76,7 @@ Unlike methods that pick from fixed actions (turn left/straight/right), TD3 can 
 pip install torch PyQt6 numpy
 
 # Run the application
-python td3_car_navigation.py
+python citymap_t3d.py
 ```
 
 ### Usage
@@ -156,7 +156,7 @@ These improvements make TD3 one of the best algorithms for continuous control!
 
 
 
+## Video Demonstration
 
-Made with ❤️ using PyTorch and PyQt6
+Youtube Link : https://youtu.be/C4HLG7oUPO4
 
-</div>
